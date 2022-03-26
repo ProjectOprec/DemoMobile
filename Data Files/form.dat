@@ -6,7 +6,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>dac80032-df3b-4ce9-a20e-2f0423e56e80</dataFileGUID>
-   <dataSourceUrl>Data Files/form.xlsx</dataSourceUrl>
+   <dataSourceUrl>Excel/form.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>true</isInternalPath>
    <query></query>
